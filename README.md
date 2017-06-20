@@ -28,7 +28,6 @@ See the following mockup of what the UI is expected to look like:
 
 
 # Instructions
-- Please don't spend more than 4 hours. We don't expect a production-ready solution.
 - Just use pure JavaScript for the flow logic implementation (no underscore and other libraries)
 - Unit tests and bundler/task runner are a plus.
 - Use pure CSS for the styling of the UI - no external libraries
