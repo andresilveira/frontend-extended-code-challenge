@@ -4,7 +4,7 @@ Hubrick Frontend Challenge
 We're excited that you're interested in joining the [Hubrick](https://hubrick.com/) team. 
 The purpose of this test is to see how you approach problems as well as to evaluate the quality of your code.
 
-#Challenge description
+# Challenge description
 The challenge is to create a simple flow engine.
 
 A flow engine is an application that executes a flow consisting of several linked rules, in this case against some incoming data (*a JSON string that can be parsed to a JavaScript object literal*). 
@@ -22,21 +22,21 @@ The execution will end when a `null` is provided for the `true_id` (and the func
 
 Additionally, the flow engine (with the provided rule-set) should not be circular.
 
-#Information
-Please see the [mockup](https://raw.githubusercontent.com/hubrick/frontend-extended-code-challenge/master/frontend-challenge-flow-mockup.png) below to get a better idea of the flow
+# Mockup
+See the following mockup of what the UI is expected to look like:
 ![](https://raw.githubusercontent.com/hubrick/frontend-extended-code-challenge/master/frontend-challenge-flow-mockup.png)
 
 
-#Instructions
+# Instructions
 - Please don't spend more than 4 hours. We don't expect a production-ready solution.
 - Just use pure JavaScript for the flow logic implementation (no underscore and other libraries)
-- Use pure CSS for the styling of the UI - no external libraries
 - Unit tests and bundler/task runner are a plus.
+- Use pure CSS for the styling of the UI - no external libraries
 
-#What we're looking for:
+# What we're looking for:
 - Code quality
 - Correctness
 - Technical choices
 
-#Submission
+# Submission
 Please push your code to a GitHub repository (or similar) and let us know when it's ready to for review. We appreciate your time and energy completing the coding exercise and will review your solution as quickly as possible.
