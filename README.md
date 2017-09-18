@@ -23,14 +23,12 @@ The execution will end when a `null` is provided for the `true_id` (and the func
 Additionally, the flow engine (with the provided rule-set) should not be circular.
 
 # Mockup
-See the following mockup of what the UI is expected to look like in frontend-challenge-flow-mockup.png
+Please implement UI according to the design provided here frontend-challenge-flow-mockup.png
 
 # Instructions
-- Please don't spend more than 3 hours. We don't expect a production-ready solution.
-- Just use pure JavaScript for the flow logic implementation (no underscore and other libraries)
-- No UI is required. We recommend to create a JSON file with the list of rules, and an object you will pass to the flow. Results can be out with console.log, bonus points for a colorful console.log for passing, or failing rules!
+- Please use ReactJs as view layer. For the Flow logic use a pure JavaScript (no underscore and other libraries)
 - Unit tests and bundler/task runner are a plus.
-- Use pure CSS for the styling of the UI - no external libraries
+- Use pure CSS preprocessor for the styling of the UI - no external libraries
 
 # What we're looking for:
 - Code quality
